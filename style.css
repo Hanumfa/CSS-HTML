@@ -1,0 +1,20 @@
+h1{
+    color:rgb(45, 163, 184);
+    font-family: Tahoma;
+    font-size: 50px;
+    text-align: center;
+}
+
+p{
+    text-indent: 30px;
+    line-height: 1.5;
+    font-size: 16px;
+    color: rgb(73, 107, 4);
+    font-family: lucida sans regular;
+}
+
+li{
+    color: rgb(24, 1, 41);
+    font-size: 13px;
+    font-family: cursive;
+}
